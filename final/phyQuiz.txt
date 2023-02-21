@@ -1,0 +1,52 @@
+Q1.	The operation of a transistor requires:
+    1.	That the emitter be heated
+    2.	That the base be heated
+    3.	That the collector be heated
+    4.	None of the above$
+Q2.	The conversion of photon in to electron-positron pair is called:
+    1: Compton effect
+    2: Photo-electric effect 
+    3: Pair production
+    4: Annihilation of matter$
+Q3.	The atom of same element with same atomic numbers but different atomic masses are called:
+    1: Metals 
+    2: Isotopes
+    3: Isomorphs
+    4: Isobars$
+Q4.	The dimension of volume are :
+    1: LT-1
+    2: LT-2
+    3: L3
+    4: L2$
+Q5: The component of vector along x-axis and y-axis are also known as:
+    1: Position vector
+    2: Null vector
+    3: Rectangular components
+    4: Free vectors$
+Q6: A is parallel to B, then A.B= _____
+    1: Zero 
+    2: AB
+    3: -AB
+    4: A/B$
+Q7: Momentum is defined as:
+    1: Work x time 
+    2: Mass x acceleration
+    3: Mass x velocity
+    4: Velocity x time$
+Q8: Torque depends on:
+    1: Force and speed
+    2: Force and moment arm
+    3: Velocity and time
+    4: Force and time$
+Q9: The maximum distance in horizontal direction of a projectile is called:
+    1: Range
+    2: Height
+    3: Trajectory
+    4: Position$
+Q10: The vertical component of acceleration of a projectile:
+    1: Is less than the gravitational acceleration
+    2: Is equal to the gravitational acceleration
+    3: Is more than the gravitational acceleration
+    4: Force and time$
+
+

@@ -1,0 +1,50 @@
+Q1: I would gladly _______ helped him if he had taken me in to his confidence.
+    1: Have
+    2: Had have 
+    3: Should
+    4: Should have$
+Q2: Our daily newspaper contains many items of _______
+    1: Success 
+    2: Information
+    3: Fashion
+    4: Jobs$
+Q3: Choose similar word of DESPERATELY:
+    1: Hardly
+    2: Dreadfully
+    3: Calmly
+    4: Anxiously$
+Q4: Choose the most similar word of RESPONSIBLE:
+    1: Accountable
+    2: Dividable
+    3: Unable
+    4: Simple$
+Q5: Choose the most opposite word of PEACEFUL:
+    1: Passive
+    2: Quarrelsome
+    3: Loving
+    4: Destroy$
+Q6: Children love _____ the stairs.
+    1: Running up and down
+    2: Runs up and down
+    3: Up and down running
+    4: Up running and down running$
+Q7: Hardly anybody ______ read the things properly.
+    1: Cannot
+    2: Can
+    3: Is
+    4: Have$
+Q8: When the ship split ______ two, all the people were shocked.
+    1: In to
+    2: Of
+    3: From
+    4: In$
+Q9: Patriotism today should ______ loyalty and commitment.
+    1: Means
+    2: Mean
+    3: Meant
+    4: To mean$
+Q10: They do not represent ______ country.
+    1: Our
+    2: Your
+    3: Their
+    4: Ones$

@@ -1,0 +1,50 @@
+Q1: ____ is used to display on screen:
+    1: out();
+    2: print();
+    3: printf();
+    4: show();$
+Q2: "=" is an _____ operator:
+    1: Logical operator
+    2: arithmetic operator
+    3: relational operator
+    4: assignment operator$
+Q3: output of the following will be "11-2*0":
+    1: 0
+    2: 11
+    3: 9
+    4: none of the above$
+Q4: The first computers were programmed using ______
+    1: Assembly language
+    2: Machine language
+    3: Source code
+    4: Object code$
+Q5: A computer cannot "boot" if it does not have the ______?
+    1: Compiler
+    2: Loader
+    3: Operating system
+    4: Assembler$
+Q6: The binary number system has two states ________?
+    1: 0 & 1
+    2: T & F
+    3: Both
+    4: None$
+Q7: Which of the following is a storage device?
+    1: Hard disk
+    2: Floppy disk
+    3: All of the above
+    4: None of the above$
+Q8: ASCII stands for _________?
+    1: American stable code for international interchange
+    2: American stable code for institutional interchange
+    3: American stable code for information interchange
+    4: American stable code for interchange international$
+Q9: A computer program that translates one program instruction at a time in to machine language is called a/an _______?
+    1: Interpreter 
+    2: CPU
+    3: Compiler 
+    4: Simulator$
+Q10: Example of non-numeric data is _______?
+    1: Employee address 
+    2: Examination score
+    3: Bank balance
+    4: All of these$
